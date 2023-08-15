@@ -3,7 +3,7 @@
 #include <math.h>
 
 /**
-* main - Prints the alphabet 
+* main - Prints the alphabet
 *
 * Return: always 0 (Success)
 */
