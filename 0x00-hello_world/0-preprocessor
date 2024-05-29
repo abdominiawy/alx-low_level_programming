@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E $CFILE > cssds
+gcc -E $CFILE > c
